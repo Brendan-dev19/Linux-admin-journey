@@ -16,7 +16,8 @@
 To run the `log_heartbeat.sh` script every minute using cron:
 
 ```bash
-* * * * * /home/ubuntu/Linux-admin-journey/day_12/log_heartbeat.sh ```
+* * * * * /home/ubuntu/Linux-admin-journey/day_12/log_heartbeat.sh
+```
 
 This will log System is alive every minute to ~/logs/heartbeat.log.
 
