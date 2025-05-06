@@ -13,4 +13,4 @@
 
 ## Output Example
 
-
+ ``` Mon May 06 12:14:01 UTC 2025: System is alive Mon May 06 12:15:01 UTC 2025: System is alive Mon May 06 12:16:01 UTC 2025: System is alive ```
