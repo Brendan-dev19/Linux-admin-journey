@@ -6,10 +6,11 @@ While working on Day 13 of my Linux Admin journey, I attempted to define a `gree
 ##  The Problem
 
 I added this function to `.bashrc`:
-```bash
+``` bash
 greet() {
   echo "Hello, $1!"
 } ```
+ 
 
 But every time I ran:
 source ~/.bashrc
