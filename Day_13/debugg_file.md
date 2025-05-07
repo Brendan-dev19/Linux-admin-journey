@@ -9,7 +9,9 @@ I added this function to `.bashrc`:
 ``` bash
 greet() {
   echo "Hello, $1!"
-} ```
+}
+
+```
  
 
 But every time I ran:
