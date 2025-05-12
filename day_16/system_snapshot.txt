@@ -1,0 +1,111 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  1.4  22640 13952 ?        Ss   Mar31   0:59 /usr/lib/systemd/systemd --system --deserialize=80
+root           2  0.0  0.0      0     0 ?        S    Mar31   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    Mar31   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-netns]
+root           9  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/0:0H-events_highpri]
+root          12  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    Mar31   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    Mar31   0:00 [rcu_tasks_trace_kthread]
+root          15  0.0  0.0      0     0 ?        S    Mar31   0:01 [ksoftirqd/0]
+root          16  0.0  0.0      0     0 ?        I    Mar31   0:28 [rcu_sched]
+root          17  0.0  0.0      0     0 ?        S    Mar31   0:14 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    Mar31   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    Mar31   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    Mar31   0:00 [cpuhp/1]
+root          21  0.0  0.0      0     0 ?        S    Mar31   0:00 [idle_inject/1]
+root          22  0.0  0.0      0     0 ?        S    Mar31   0:11 [migration/1]
+root          23  0.0  0.0      0     0 ?        S    Mar31   0:01 [ksoftirqd/1]
+root          25  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/1:0H-events_highpri]
+root          26  0.0  0.0      0     0 ?        S    Mar31   0:00 [kdevtmpfs]
+root          27  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-inet_]
+root          29  0.0  0.0      0     0 ?        S    Mar31   0:00 [kauditd]
+root          31  0.0  0.0      0     0 ?        S    Mar31   0:00 [khungtaskd]
+root          32  0.0  0.0      0     0 ?        S    Mar31   0:00 [oom_reaper]
+root          34  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-write]
+root          35  0.0  0.0      0     0 ?        S    Mar31   1:55 [kcompactd0]
+root          36  0.0  0.0      0     0 ?        SN   Mar31   0:00 [ksmd]
+root          37  0.0  0.0      0     0 ?        SN   Mar31   0:00 [khugepaged]
+root          38  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-kinte]
+root          39  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-kbloc]
+root          40  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-blkcg]
+root          41  0.0  0.0      0     0 ?        S    Mar31   0:00 [irq/9-acpi]
+root          42  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-tpm_d]
+root          43  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-ata_s]
+root          44  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-md]
+root          45  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-md_bi]
+root          46  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-edac-]
+root          47  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-devfr]
+root          48  0.0  0.0      0     0 ?        S    Mar31   0:00 [watchdogd]
+root          49  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/0:1H-kblockd]
+root          50  0.0  0.0      0     0 ?        S    Mar31   0:04 [kswapd0]
+root          51  0.0  0.0      0     0 ?        S    Mar31   0:00 [ecryptfs-kthread]
+root          52  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-kthro]
+root          53  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-acpi_]
+root          54  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-nvme-]
+root          55  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-nvme-]
+root          56  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-nvme-]
+root          57  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-nvme-]
+root          59  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-mld]
+root          60  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-ipv6_]
+root          67  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-kstrp]
+root          69  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/u5:0]
+root          82  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-charg]
+root          83  0.0  0.0      0     0 ?        S    Mar31   0:04 [jbd2/nvme0n1p1-8]
+root          84  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-ext4-]
+root          85  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/1:1H-kblockd]
+root         163  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-kmpat]
+root         164  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-kmpat]
+root         258  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-ena]
+root         259  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-crypt]
+root         283  0.0  0.0      0     0 ?        S    Mar31   0:00 [jbd2/nvme0n1p16-8]
+root         285  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-ext4-]
+root         596  0.0  0.2   2720  1920 ?        Ss   Mar31   0:00 /usr/sbin/acpid
+root         600  0.0  0.3   7224  2816 ?        Ss   Mar31   0:06 /usr/sbin/cron -f -P
+message+     601  0.0  0.5  10032  4992 ?        Ss   Mar31   0:32 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         609  0.0  2.1  32408 20224 ?        Ss   Mar31   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         618  0.0  0.9  18164  8576 ?        Ss   Mar31   0:05 /usr/lib/systemd/systemd-logind
+root         696  0.0  0.2   6148  2176 ttyS0    Ss+  Mar31   0:00 /sbin/agetty -o -p -- \u --keep-baud 115200,57600,38400,9600 - vt220
+root         725  0.0  2.4 110000 22528 ?        Ssl  Mar31   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+_chrony      739  0.0  0.4  19400  3796 ?        S    Mar31   0:52 /usr/sbin/chronyd -F 1
+_chrony      746  0.0  0.2  11072  2160 ?        S    Mar31   0:00 /usr/sbin/chronyd -F 1
+root         816  0.0  0.2   6104  2048 tty1     Ss+  Mar31   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+root        1244  0.0  0.0      0     0 ?        I<   Mar31   0:00 [kworker/R-tls-s]
+root       16146  0.0  0.4  82920  3968 ?        Ssl  Apr04   1:19 /usr/sbin/irqbalance
+root       16162  0.0  2.8 288952 27136 ?        SLsl Apr04   4:22 /sbin/multipathd -d -s
+root       16170  0.0  4.6  91496 43576 ?        S<s  Apr04   0:27 /usr/lib/systemd/systemd-journald
+systemd+   16175  0.0  0.9  18988  8960 ?        Ss   Apr04   0:04 /usr/lib/systemd/systemd-networkd
+systemd+   16193  0.0  1.3  21584 12416 ?        Ss   Apr04   0:04 /usr/lib/systemd/systemd-resolved
+root       16194  0.0  0.8  26468  7640 ?        Ss   Apr04   0:03 /usr/lib/systemd/systemd-udevd
+root       16199  0.0  1.2 469072 11520 ?        Ssl  Apr04   0:57 /usr/libexec/udisks2/udisksd
+root       16229  0.0  0.0      0     0 ?        S    Apr04   0:00 [psimon]
+syslog     16231  0.0  0.5 222508  5376 ?        Ssl  Apr04   0:04 /usr/sbin/rsyslogd -n -iNONE
+polkitd    30130  0.0  0.8 308164  7808 ?        Ssl  Apr09   0:52 /usr/lib/polkit-1/polkitd --no-debug
+root       30142  0.0  0.9 391876  8576 ?        Ssl  Apr09   0:00 /usr/sbin/ModemManager
+root       65429  0.0  1.3 1833292 13056 ?       Ssl  Apr21   0:44 /snap/amazon-ssm-agent/11320/amazon-ssm-agent
+root       87294  0.0  0.8  12020  7552 ?        Ss   Apr26   0:02 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups
+root       98526  0.0  2.5 1922504 23736 ?       Ssl  Apr29   0:33 /usr/lib/snapd/snapd
+root      146538  0.0  0.0      0     0 ?        I    13:10   0:00 [kworker/u4:1-events_unbound]
+root      146573  0.0  0.0      0     0 ?        I    13:38   0:00 [kworker/u4:3-events_power_efficient]
+root      146577  0.0  0.0      0     0 ?        I    13:40   0:00 [kworker/1:0-mm_percpu_wq]
+root      146620  0.0  1.1  14732 10496 ?        Ss   14:09   0:00 sshd: ubuntu [priv]
+root      146623  0.0  0.0      0     0 ?        S    14:09   0:00 [psimon]
+ubuntu    146625  0.0  1.2  20244 11264 ?        Ss   14:09   0:00 /usr/lib/systemd/systemd --user
+root      146627  0.0  0.0      0     0 ?        I    14:09   0:00 [kworker/0:3-events]
+ubuntu    146628  0.0  0.3  21144  3516 ?        S    14:09   0:00 (sd-pam)
+ubuntu    146737  0.0  0.7  15500  7452 ?        S    14:09   0:00 sshd: ubuntu@pts/0
+ubuntu    146771  0.0  0.5   9056  5376 pts/0    Ss   14:09   0:00 -bash
+ubuntu    146910  0.0  0.4   7716  3968 pts/0    S+   14:44   0:00 nano README.md
+root      146924  0.0  1.1  14732 10496 ?        Ss   14:56   0:00 sshd: ubuntu [priv]
+ubuntu    146981  0.0  0.7  15532  7452 ?        S    14:56   0:00 sshd: ubuntu@pts/1
+ubuntu    146982  0.0  0.5   9056  5248 pts/1    Ss   14:56   0:00 -bash
+root      147016  0.0  0.0      0     0 ?        I    15:07   0:00 [kworker/u4:2-flush-259:0]
+root      147023  0.0  0.0      0     0 ?        I    15:10   0:00 [kworker/1:2]
+root      147042  0.0  0.0      0     0 ?        I    15:20   0:00 [kworker/0:2-cgroup_destroy]
+root      147079  0.0  0.0      0     0 ?        I    15:30   0:00 [kworker/u4:0]
+root      147080  0.0  0.0      0     0 ?        I    15:30   0:00 [kworker/0:0]
+root      147081  0.0  0.0      0     0 ?        I    15:30   0:00 [kworker/0:1]
+ubuntu    147084  0.0  0.4  11320  4352 pts/1    R+   15:31   0:00 ps aux
