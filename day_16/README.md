@@ -12,7 +12,6 @@
 
 ##Key Commands Used
 
-
 # View all running processes
 ps aux
 
