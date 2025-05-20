@@ -1,0 +1,20 @@
+[    2.711773] AES CTR mode by8 optimization enabled
+[    2.712162] ena 0000:00:05.0: Elastic Network Adapter (ENA) found at mem 80400000, mac addr 0a:d1:dd:f1:51:45
+[    2.757026] ena 0000:00:05.0 ens5: renamed from eth0
+[    2.760631] ppdev: user-space parallel port driver
+[    3.129958] EXT4-fs (nvme0n1p16): mounted filesystem 2aeda221-cde7-4cff-aa4c-e3f564d1e144 r/w with ordered data mode. Quota mode: none.
+[    3.251974] audit: type=1400 audit(1747502879.261:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="Discord" pid=327 comm="apparmor_parser"
+[    3.251981] audit: type=1400 audit(1747502879.261:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="buildah" pid=332 comm="apparmor_parser"
+[    3.257279] audit: type=1400 audit(1747502879.267:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="crun" pid=339 comm="apparmor_parser"
+[    3.257379] audit: type=1400 audit(1747502879.267:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="chrome" pid=337 comm="apparmor_parser"
+[    3.258043] audit: type=1400 audit(1747502879.268:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name=4D6F6E676F444220436F6D70617373 pid=328 comm="apparmor_parser"
+[    3.258345] audit: type=1400 audit(1747502879.268:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="vscode" pid=338 comm="apparmor_parser"
+[    3.260768] audit: type=1400 audit(1747502879.271:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="element-desktop" pid=345 comm="apparmor_parser"
+[    3.262705] audit: type=1400 audit(1747502879.272:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="firefox" pid=349 comm="apparmor_parser"
+[    3.262814] audit: type=1400 audit(1747502879.273:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="QtWebEngineProcess" pid=329 comm="apparmor_parser"
+[    3.568174] input: ImPS/2 Generic Wheel Mouse as /devices/platform/i8042/serio1/input/input4
+[    5.443062] 8021q: 802.1Q VLAN Support v1.8
+[    7.139742] kauditd_printk_skb: 118 callbacks suppressed
+[    7.139745] audit: type=1400 audit(1747502883.148:129): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="rsyslogd" pid=567 comm="apparmor_parser"
+[    9.215618] loop6: detected capacity change from 0 to 8
+[241949.942173] systemd-journald[125]: /var/log/journal/ec2543b2f3a4adf625bee3a6e4a9370f/user-1000.journal: Journal file uses a different sequence number ID, rotating.
