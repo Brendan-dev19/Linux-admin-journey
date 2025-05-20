@@ -1,0 +1,32 @@
+
+# Day 16 – Process Management and Monitoring
+
+## What I Did
+
+- Learned how to identify running processes using `ps`, `htop`, and `grep`.
+- Understood the concept of **PIDs (Process IDs)** — unique numbers assigned to each process.
+- Practiced monitoring and controlling active processes.
+- Simulated a long-running process using `sleep` and tracked it.
+- Took a snapshot of all my system processes using `top -b -n 1 > ~/day_16/system_snapshot.txt
+` 
+
+---
+
+##  Key Commands Used
+
+```bash
+# View all running processes
+ps aux
+
+# View all running processes and filter for a specific one (e.g. "sleep")
+ps aux | grep sleep
+
+# Run a background process
+sleep 1000
+
+# Monitor all active processes interactively
+htop
+
+# Kill a process using its PID
+kill <PID>
+
