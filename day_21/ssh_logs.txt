@@ -1,0 +1,20 @@
+May 23 07:44:45 ip-172-31-32-16 sshd[19152]: Connection closed by authenticating user root 167.99.131.158 port 34464 [preauth]
+May 23 07:44:51 ip-172-31-32-16 sshd[19154]: Invalid user centos from 167.99.131.158 port 34486
+May 23 07:44:51 ip-172-31-32-16 sshd[19154]: Connection closed by invalid user centos 167.99.131.158 port 34486 [preauth]
+May 23 07:44:51 ip-172-31-32-16 sshd[19156]: Connection closed by authenticating user root 167.99.131.158 port 34494 [preauth]
+May 23 07:44:52 ip-172-31-32-16 sshd[19158]: Invalid user steam from 167.99.131.158 port 34510
+May 23 07:44:52 ip-172-31-32-16 sshd[19158]: Connection closed by invalid user steam 167.99.131.158 port 34510 [preauth]
+May 23 07:45:10 ip-172-31-32-16 sshd[19163]: Invalid user odoo from 167.99.131.158 port 36572
+May 23 07:45:10 ip-172-31-32-16 sshd[19163]: Connection closed by invalid user odoo 167.99.131.158 port 36572 [preauth]
+May 23 07:45:52 ip-172-31-32-16 sshd[19165]: Invalid user ansible from 167.99.131.158 port 49582
+May 23 07:45:52 ip-172-31-32-16 sshd[19165]: Connection closed by invalid user ansible 167.99.131.158 port 49582 [preauth]
+May 23 08:25:36 ip-172-31-32-16 sshd[19221]: Connection closed by 71.6.199.87 port 55226 [preauth]
+May 23 10:31:06 ip-172-31-32-16 sshd[19829]: Connection closed by 20.65.194.16 port 35708 [preauth]
+May 23 10:39:25 ip-172-31-32-16 sshd[19850]: Connection closed by 71.6.199.65 port 48000 [preauth]
+May 23 10:51:22 ip-172-31-32-16 sshd[19870]: Accepted publickey for ubuntu from 154.120.99.104 port 49904 ssh2: RSA SHA256:VPX0siUDFvn6IXJxF8nuty6n82vFbDawMOabM5YHNDg
+May 23 10:51:22 ip-172-31-32-16 sshd[19870]: pam_unix(sshd:session): session opened for user ubuntu(uid=1000) by ubuntu(uid=0)
+May 23 11:55:52 ip-172-31-32-16 sshd[20116]: Accepted publickey for ubuntu from 154.120.99.104 port 50146 ssh2: RSA SHA256:VPX0siUDFvn6IXJxF8nuty6n82vFbDawMOabM5YHNDg
+May 23 11:55:52 ip-172-31-32-16 sshd[20116]: pam_unix(sshd:session): session opened for user ubuntu(uid=1000) by ubuntu(uid=0)
+May 23 12:10:52 ip-172-31-32-16 sshd[20289]: Connection closed by 172.235.40.131 port 35172 [preauth]
+May 23 12:10:53 ip-172-31-32-16 sshd[20291]: Connection closed by 172.235.40.131 port 35174 [preauth]
+May 23 12:10:55 ip-172-31-32-16 sshd[20293]: Connection closed by 172.235.40.131 port 35190 [preauth]
