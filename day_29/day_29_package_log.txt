@@ -1,0 +1,19 @@
+Package: nethogs
+Version: 0.8.7-2build2
+Priority: optional
+Section: universe/net
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Paulo Roberto Alves de Oliveira (aka kretcheu) <kretcheu@gmail.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 91.1 kB
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libncurses6 (>= 6), libpcap0.8t64 (>= 0.9.8), libstdc++6 (>= 13.1), libtinfo6 (>= 6)
+Homepage: https://github.com/raboof/nethogs
+Download-Size: 34.6 kB
+APT-Manual-Installed: yes
+APT-Sources: http://eu-north-1.ec2.archive.ubuntu.com/ubuntu noble/universe amd64 Packages
+Description: Net top tool grouping bandwidth per process
+ NetHogs is a small 'net top' tool. Instead of breaking the traffic down per
+ protocol or per subnet, like most tools do, it groups bandwidth by process.
+ NetHogs does not rely on a special kernel module to be loaded.
+
